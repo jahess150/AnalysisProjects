@@ -19,3 +19,5 @@ For my analysis, I began by cleaning and engineering the data to address missing
 4. How does student engagement with online learning platforms relate to different geography? Demographic content (e.g. race/ethnicity, ESL, learning disability)? Learning context? Socioeconomic status?
 
 Throughout the analysis, I back up my findings with results from both parametric and non-parametric hypothesis testing. At the end of the notebook, I write my conclusions on each of these questions.
+
+A Tableau Public dashboard containing some visualizations of the cleaned dataset from this notebook can be found [here](https://public.tableau.com/views/COVIDEngagementWorkbook/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
